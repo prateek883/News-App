@@ -6,14 +6,12 @@
 <h1 align = 'center'> News App (Android App) </h1>
 
 <br>
-[![](https://img.shields.io/badge/Deployment-Android_Studio-purple?style=for-the-badge&logo=java)](https://developer.android.com/studio)
 </p>
 <br>
 
 ------------------------------------------
 
-## Click this link to download apk file.
-https://drive.google.com/file/d/1OSBUCF36xidVpnZwfABfbfY7RwUJ3Pmh/view?usp=sharing
+<h3 align='center'> Download the app here: <a href="https://drive.google.com/file/d/1OSBUCF36xidVpnZwfABfbfY7RwUJ3Pmh/view?usp=sharing" target="_top">Download Link </a></h3>
  
  ------------------------------------------
  
